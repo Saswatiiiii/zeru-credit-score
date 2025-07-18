@@ -83,4 +83,4 @@ pip install pandas scikit-learn matplotlib seaborn joblib
 ##  Author
 
 Saswati Chatterjee
-[saswati006@gmail.com]
+[saswatic006@gmail.com]
